@@ -3,7 +3,7 @@ export const metadata = {
   description: 'B2B Homeware Wholesale Storefront',
 };
 
-import '../styles/globals.css';
+import '../styles/globals.css'
 
 export default function RootLayout({ children }) {
   return (
